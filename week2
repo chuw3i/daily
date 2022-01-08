@@ -4,3 +4,4 @@
 2022.1.5   复习了一下unlink,尝试做了做freenote_x64,并查看其他师傅的思路,大致明白了利用思路,但是exp没有打通,查看了别的师傅的wp,也没有打通,不知道是什么原因.
 2022.1.6   调试了一下how2heap的unsafe_unlink，做了一道例题。secretHolder_hitcon_2016
 2022.1.7   复习了off-by-one，进行how2heap中poison null byte的调试
+2022.1.8   复习overlapping chunk，对how2heap中的overlapping chunk，overlapping chunks_2进行调试
