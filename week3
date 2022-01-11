@@ -1,2 +1,3 @@
 2022.1.10-2022.1.6
 2022.1.10 继续配置kernel pwn，基本环境配置完成
+2022.1.11 学习了fastbin attach的Arbitrary Alloc，写了一个fasbin doule free的例题：iscc 2018的Write Some Paper
