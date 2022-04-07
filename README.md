@@ -3,8 +3,3 @@
 
 详情可见[我的博客](https://wysyrg.github.io/) 
 
-```
-"[markdown]":  {
-        "editor.quickSuggestions": true
-    }
-```
